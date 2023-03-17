@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thephantom821
-- 👀 I’m interested in game mods
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nobody
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning python!
+- 💞️ I’m looking to get help!
 - 📫 How to reach me |diegoking1329@gmail.com
 
 <!---
