@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thephantom821
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python!
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity!
 - 💞️ I’m looking to get help!
-- 📫 How to reach me |diegoking1329@gmail.com
 
 <!---
 thephantom821/thephantom821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
